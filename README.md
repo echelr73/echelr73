@@ -8,4 +8,4 @@ Hola 👋, mi nombre es Martin Julian Echeverria.
 
 📫Mi correo es eche_lr73@hotmail.com
 
-:briefcase: Pueden ver algunos de mis trabajos en: https://echelr73.wixsite.com/website
+:briefcase: Pueden ver mi web en: https://martinecheverriacv.netlify.app
